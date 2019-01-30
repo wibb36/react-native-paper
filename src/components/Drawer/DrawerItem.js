@@ -67,7 +67,7 @@ class DrawerItem extends React.Component<Props> {
           .alpha(0.68)
           .rgb()
           .string();
-    const fontFamily = theme.fonts.medium;
+    const font = theme.fonts.medium;
     const labelMargin = icon ? 32 : 0;
 
     return (
@@ -99,7 +99,7 @@ class DrawerItem extends React.Component<Props> {
                 styles.label,
                 {
                   color: contentColor,
-                  fontFamily,
+                  ...font,
                   marginLeft: labelMargin,
                 },
               ]}

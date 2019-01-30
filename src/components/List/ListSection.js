@@ -66,14 +66,14 @@ class ListSection extends React.Component<Props> {
       .alpha(0.54)
       .rgb()
       .string();
-    const fontFamily = fonts.medium;
+    const font = fonts.medium;
 
     return (
       <View {...rest} style={[styles.container, style]}>
         {title && (
           <Text
             numberOfLines={1}
-            style={[styles.title, { color: titleColor, fontFamily }]}
+            style={[styles.title, { color: titleColor, ...font }]}
           >
             {title}
           </Text>
