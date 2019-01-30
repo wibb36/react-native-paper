@@ -54,7 +54,8 @@ exports[`renders hidden banner, without action buttons and without image 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -145,7 +146,8 @@ exports[`renders visible banner, with action buttons and with image 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -220,7 +222,8 @@ exports[`renders visible banner, with action buttons and with image 1`] = `
                 Array [
                   Object {
                     "color": "#000000",
-                    "fontFamily": "Helvetica Neue",
+                    "fontFamily": "System",
+                    "fontWeight": "400",
                     "textAlign": "left",
                     "writingDirection": "ltr",
                   },
@@ -236,10 +239,12 @@ exports[`renders visible banner, with action buttons and with image 1`] = `
                     },
                     Object {
                       "color": "#6200ee",
-                      "fontFamily": "HelveticaNeue-Medium",
+                      "fontFamily": "System",
+                      "fontWeight": "500",
                     },
                     Object {
-                      "fontFamily": "HelveticaNeue-Medium",
+                      "fontFamily": "System",
+                      "fontWeight": "500",
                     },
                   ],
                 ]
@@ -298,7 +303,8 @@ exports[`renders visible banner, with action buttons and without image 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -373,7 +379,8 @@ exports[`renders visible banner, with action buttons and without image 1`] = `
                 Array [
                   Object {
                     "color": "#000000",
-                    "fontFamily": "Helvetica Neue",
+                    "fontFamily": "System",
+                    "fontWeight": "400",
                     "textAlign": "left",
                     "writingDirection": "ltr",
                   },
@@ -389,10 +396,12 @@ exports[`renders visible banner, with action buttons and without image 1`] = `
                     },
                     Object {
                       "color": "#6200ee",
-                      "fontFamily": "HelveticaNeue-Medium",
+                      "fontFamily": "System",
+                      "fontWeight": "500",
                     },
                     Object {
-                      "fontFamily": "HelveticaNeue-Medium",
+                      "fontFamily": "System",
+                      "fontWeight": "500",
                     },
                   ],
                 ]
@@ -455,7 +464,8 @@ exports[`renders visible banner, with action buttons and without image 1`] = `
                 Array [
                   Object {
                     "color": "#000000",
-                    "fontFamily": "Helvetica Neue",
+                    "fontFamily": "System",
+                    "fontWeight": "400",
                     "textAlign": "left",
                     "writingDirection": "ltr",
                   },
@@ -471,10 +481,12 @@ exports[`renders visible banner, with action buttons and without image 1`] = `
                     },
                     Object {
                       "color": "#6200ee",
-                      "fontFamily": "HelveticaNeue-Medium",
+                      "fontFamily": "System",
+                      "fontWeight": "500",
                     },
                     Object {
-                      "fontFamily": "HelveticaNeue-Medium",
+                      "fontFamily": "System",
+                      "fontWeight": "500",
                     },
                   ],
                 ]
@@ -554,7 +566,8 @@ exports[`renders visible banner, without action buttons and with image 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -624,7 +637,8 @@ exports[`renders visible banner, without action buttons and without image 1`] = 
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },

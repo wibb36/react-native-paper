@@ -52,7 +52,8 @@ exports[`renders button with color 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -66,10 +67,12 @@ exports[`renders button with color 1`] = `
               undefined,
               Object {
                 "color": "#e91e63",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -178,7 +181,8 @@ exports[`renders button with icon 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -192,10 +196,12 @@ exports[`renders button with icon 1`] = `
               undefined,
               Object {
                 "color": "#6200ee",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -260,7 +266,8 @@ exports[`renders contained contained with mode 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -274,10 +281,12 @@ exports[`renders contained contained with mode 1`] = `
               undefined,
               Object {
                 "color": "#ffffff",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -340,7 +349,8 @@ exports[`renders disabled button 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -354,10 +364,12 @@ exports[`renders disabled button 1`] = `
               undefined,
               Object {
                 "color": "rgba(0, 0, 0, 0.32)",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -435,7 +447,8 @@ exports[`renders loading button 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -449,10 +462,12 @@ exports[`renders loading button 1`] = `
               undefined,
               Object {
                 "color": "#6200ee",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -517,7 +532,8 @@ exports[`renders outlined button with mode 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -531,10 +547,12 @@ exports[`renders outlined button with mode 1`] = `
               undefined,
               Object {
                 "color": "#6200ee",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -599,7 +617,8 @@ exports[`renders text button by default 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -613,10 +632,12 @@ exports[`renders text button by default 1`] = `
               undefined,
               Object {
                 "color": "#6200ee",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]
@@ -681,7 +702,8 @@ exports[`renders text button with mode 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -695,10 +717,12 @@ exports[`renders text button with mode 1`] = `
               undefined,
               Object {
                 "color": "#6200ee",
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
               Object {
-                "fontFamily": "HelveticaNeue-Medium",
+                "fontFamily": "System",
+                "fontWeight": "500",
               },
             ],
           ]

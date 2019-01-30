@@ -90,7 +90,8 @@ exports[`renders chip with close button 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -258,7 +259,8 @@ exports[`renders chip with icon 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -330,7 +332,8 @@ exports[`renders chip with onPress 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -406,7 +409,8 @@ exports[`renders outlined disabled chip 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },
@@ -527,7 +531,8 @@ exports[`renders selected chip 1`] = `
           Array [
             Object {
               "color": "#000000",
-              "fontFamily": "Helvetica Neue",
+              "fontFamily": "System",
+              "fontWeight": "400",
               "textAlign": "left",
               "writingDirection": "ltr",
             },

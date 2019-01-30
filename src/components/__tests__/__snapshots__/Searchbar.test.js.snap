@@ -111,7 +111,8 @@ exports[`renders with placeholder 1`] = `
         },
         Object {
           "color": "#000000",
-          "fontFamily": "Helvetica Neue",
+          "fontFamily": "System",
+          "fontWeight": "400",
         },
       ]
     }
@@ -310,7 +311,8 @@ exports[`renders with text 1`] = `
         },
         Object {
           "color": "#000000",
-          "fontFamily": "Helvetica Neue",
+          "fontFamily": "System",
+          "fontWeight": "400",
         },
       ]
     }
