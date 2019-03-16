@@ -4,6 +4,7 @@ import { ThemeShape, IconSource } from '../types';
 
 export interface FABGroupAction {
   icon: string;
+  iconSize?: number;
   label?: string;
   color?: string;
   accessibilityLabel?: string;
@@ -14,6 +15,7 @@ export interface FABGroupAction {
 export interface FABGroupProps {
   actions: Array<FABGroupAction>;
   icon: IconSource;
+  iconSize=?: number;
   accessibilityLabel?: string;
   color?: string;
   onPress?: () => any;
@@ -27,6 +29,7 @@ export interface FABGroupProps {
 
 export interface FABProps extends ViewProps {
   icon: IconSource;
+  iconSize?: number;
   label?: string;
   accessibilityLabel?: string;
   small?: boolean;
